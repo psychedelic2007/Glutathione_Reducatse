@@ -1,5 +1,7 @@
 # An in-silico approach to identify bioactive phytochemicals from Houttuynia cordata Thunb. As potential inhibitors of Human Glutathione Reductase
 ## Satyam Sangeet, Arshad Khan
+## Journal of Biomolecular Structure and Dynamics
+## DOI: 10.1080/07391102.2023.2294181
 
 **********************************************************************************************
 # Abstract
